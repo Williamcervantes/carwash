@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b057079.chunk.css",
-    "main.js": "/static/js/main.7a3d606a.chunk.js",
-    "main.js.map": "/static/js/main.7a3d606a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bf1f87c9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bf1f87c9.js.map",
-    "static/js/2.8b6a9d8d.chunk.js": "/static/js/2.8b6a9d8d.chunk.js",
-    "static/js/2.8b6a9d8d.chunk.js.map": "/static/js/2.8b6a9d8d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2b057079.chunk.css.map": "/static/css/main.2b057079.chunk.css.map",
-    "static/js/2.8b6a9d8d.chunk.js.LICENSE.txt": "/static/js/2.8b6a9d8d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/img-2.bb238fc1.jpg"
+    "main.css": "/carwash/static/css/main.73329814.chunk.css",
+    "main.js": "/carwash/static/js/main.dcc11b9f.chunk.js",
+    "main.js.map": "/carwash/static/js/main.dcc11b9f.chunk.js.map",
+    "runtime-main.js": "/carwash/static/js/runtime-main.c4499f2d.js",
+    "runtime-main.js.map": "/carwash/static/js/runtime-main.c4499f2d.js.map",
+    "static/js/2.126bf728.chunk.js": "/carwash/static/js/2.126bf728.chunk.js",
+    "static/js/2.126bf728.chunk.js.map": "/carwash/static/js/2.126bf728.chunk.js.map",
+    "index.html": "/carwash/index.html",
+    "precache-manifest.43787e24078a27c7d59b4faed04e0d60.js": "/carwash/precache-manifest.43787e24078a27c7d59b4faed04e0d60.js",
+    "service-worker.js": "/carwash/service-worker.js",
+    "static/css/main.73329814.chunk.css.map": "/carwash/static/css/main.73329814.chunk.css.map",
+    "static/js/2.126bf728.chunk.js.LICENSE.txt": "/carwash/static/js/2.126bf728.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf1f87c9.js",
-    "static/js/2.8b6a9d8d.chunk.js",
-    "static/css/main.2b057079.chunk.css",
-    "static/js/main.7a3d606a.chunk.js"
+    "static/js/runtime-main.c4499f2d.js",
+    "static/js/2.126bf728.chunk.js",
+    "static/css/main.73329814.chunk.css",
+    "static/js/main.dcc11b9f.chunk.js"
   ]
 }
